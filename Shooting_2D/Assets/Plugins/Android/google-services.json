@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "205285435806",
+    "firebase_url": "https://shootinggameserver.firebaseio.com",
+    "project_id": "shootinggameserver",
+    "storage_bucket": "shootinggameserver.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:205285435806:android:db262e574b9dc96d22ce8f",
+        "android_client_info": {
+          "package_name": "com.score.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "205285435806-g83f638hstudh3hegnbrur7p78ek69mq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkWReX6eSMZ5V-aj3NzvUNAfL-QZiZ9wU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "205285435806-g83f638hstudh3hegnbrur7p78ek69mq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
